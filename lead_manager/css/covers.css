@@ -1,0 +1,45 @@
+.cover_box
+{
+	width: 98%;
+	padding: 1%;
+	margin-top: 10px;
+	background: #EEEEEE;
+}
+
+.working
+{
+	background: #CCCCCC;
+}
+
+.fail
+{
+	background: #FEDCBA;
+}
+
+.sucess
+{
+	background: #ABCDEF;
+}
+
+.cover_box h4
+{
+	margin: 3px;
+	cursor: move;
+}
+
+.cover_box th
+{
+	text-align: right;
+}
+
+.cover_box .cover_showhide
+{
+	float: right;
+	display: block;
+	cursor: pointer;
+}
+
+.cover_box .cover_details
+{
+	display: none;
+}

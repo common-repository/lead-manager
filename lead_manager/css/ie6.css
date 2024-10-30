@@ -1,0 +1,33 @@
+/* CSS Document */
+
+#wrap {
+	width: 860px;
+	margin: 10px auto;
+}
+#menu {
+	height: 20px;
+}
+#menu li a {
+	border: 0;
+}
+#menu #mailto a {
+	border-top: 0;
+}
+#menu #mailto a {
+	border-top: 0;
+}
+#login {
+	display: none;
+}
+#menu2 li a {
+	border: 0;
+}
+#content {
+	height: 100%;
+}
+.tagcloud {
+	width: 285px;
+}
+#footer div {
+	display: none;
+}
